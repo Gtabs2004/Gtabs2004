@@ -1,5 +1,4 @@
-# ᜄᜒᜇᜓ ᜆᜓᜊᜓᜅᜈ᜔ (Gero • Tubungan)
-## Mabuhay! 🇵🇭
+
 
 I am **Gero Antoni T. Tabiolo**, a 21-year-old **Bachelor of Science in Information Systems (BSIS 3B)** student at West Visayas State University. I am passionate about bridging the gap between complex data systems and user-friendly digital experiences.
 
@@ -9,7 +8,7 @@ I am **Gero Antoni T. Tabiolo**, a 21-year-old **Bachelor of Science in Informat
 - Modern PHP Frameworks
 
 ### 🛠️ I’m currently working on ...
-- **Senior Thesis:** Developing an information system focused on [Insert Thesis Topic Placeholder].
+- **Senior Thesis:** Developing an information system focused on [Integrated Loan Management System with Parallel MIGS Risk Analysis and Demand Forecasting using Multi-Criteria Decision Analysis and Time-Series Analysis for TTMPC].
 - **Database Optimization:** Refining MySQL queries for efficient data handling.
 
 ### 💻 Technical Stack
@@ -25,5 +24,3 @@ Beyond the code, I spend my time capturing moments and refining visuals.
 - 🔵 **Facebook:** [Gero Tabiolo](https://facebook.com/GeroTabiolo)
 - 🏫 **School:** West Visayas State University - Main Campus
 
----
-*“Excellence is a way of life.” | #TagaWest #TubunganPride*
