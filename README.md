@@ -7,6 +7,7 @@ I am **Gero Antoni T. Tabiolo**, a 21-year-old **Bachelor of Science in Informat
 - System Analysis and Design
 - Modern PHP Frameworks.
 - Backend Technical Support
+- Sql and Database
 
 ### 🛠️ I’m currently working on ...
 - **Senior Thesis:** Developing an information system focused on [Integrated Loan Management System with Parallel MIGS Risk Analysis and Demand Forecasting using Multi-Criteria Decision Analysis and Time-Series Analysis for TTMPC].
