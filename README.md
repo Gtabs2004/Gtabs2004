@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a 21-year-old **Bachelor of Science in Information Systems** student at **West Visayas State University (Main Campus)**, located in Tubungan, Iloilo, Philippines. I am passionate about bridging the gap between complex data systems and smooth, user-friendly digital experiences. 
+I am a 22-year-old **Bachelor of Science in Information Systems** student at **West Visayas State University (Main Campus)**, located in Tubungan, Iloilo, Philippines. I am passionate about bridging the gap between complex data systems and smooth, user-friendly digital experiences. 
 
 I specialize in **data architecture** and database design, building robust data flows, and strategically **utilizing diverse AI tools** to accelerate development and optimize code efficiency. My AI-assisted workflow includes:
 - **Claude & GitHub Copilot** for software development and coding assistance.
